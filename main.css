@@ -169,7 +169,12 @@ a {
 }
 
 .blog-image {
-    margin-left: 280px;
+    margin-left: 260px;
+}
+
+.blog-image img {
+    width: 500px;
+    height: 300px;
 }
 
 .blog-title {
@@ -231,6 +236,7 @@ a {
     border: none;
     border-radius: 3px;
     font-family: 'Noto Sans KR', sans-serif;
+    caret-color: rgb(128, 124, 124);
 }
 
 .contact-form #submit {
