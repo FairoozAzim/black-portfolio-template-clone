@@ -96,6 +96,10 @@ p {
     padding: 0;
 }
 
+.grid-container img:hover {
+    transform: scale(1.1);
+}
+
 .show-more {
     text-align: center;
     margin-top: 60px;
